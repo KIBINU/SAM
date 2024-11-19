@@ -1,0 +1,52 @@
+a,p,h3,h4,h2{
+    display: flex;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 2em;
+
+}
+
+label{
+    color: beige;
+    margin-left: 20%;
+    font-size: 1.5em;
+}
+
+button,select,input{
+    margin-left: 20%;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+img {
+    margin-left: 30%;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 40%;
+    width: 40%;
+
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 50px;
+     color: black;
+     background-color: cornsilk;
+}
+section{
+    padding-top: 10px;
+   background-color: darkgrey;
+   padding-bottom: 20px;
+}
+
+.p1{
+    font-size: 0.5em;
+    background-color: ivory;
+    color: black;
+    display: flex;
+    text-align: center;
+}
